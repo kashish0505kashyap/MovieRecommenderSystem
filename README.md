@@ -1,7 +1,7 @@
 # MovieRecommenderSystem
 An end to end movie recommender system
 
-This is a content based movie recommender system created using  tmdb movies dataset
+This is a content based movie recommender system created using  tmdb movies dataset.
 The website is created using streamlit library.
 
 
